@@ -1,3 +1,115 @@
+<a name="2.7.0"></a>
+# [2.7.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.6.1...v2.7.0) (2020-03-24)
+
+
+### Features
+
+* **icons:** add 11 glyph_ icons ([#344](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/344)) ([8ab25cb](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8ab25cb))
+* **icons:** add 49 glyph_ icons ([#347](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/347)) ([8341402](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8341402))
+
+
+
+<a name="2.6.1"></a>
+## [2.6.1](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.6.0...v2.6.1) (2020-03-23)
+
+
+### Bug Fixes
+
+* add missing icons from figma ([#336](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/336)) ([db13aa6](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/db13aa6))
+
+
+### Features
+
+* **icons:** add word (docx) icons ([#348](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/348)) ([8934f50](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8934f50))
+* **icons:** deleted docx icons ([0a40894](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/0a40894))
+* **icons:** new voc act ([#342](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/342)) ([471a15b](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/471a15b))
+* **tokens:** updated colors for mobile ([46029c8](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/46029c8))
+* **tokens:** updated colors for mobile ([70a487c](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/70a487c))
+* **tokens:** updated colors for mobile ([e330e47](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/e330e47))
+
+
+
+<a name="2.6.0"></a>
+# [2.6.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.5.0...v2.6.0) (2020-03-18)
+
+
+### Features
+
+* **icons:** add new category-budget icons ([#328](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/328)) ([8eca08a](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8eca08a))
+* **icons:** add voc icons ([712b624](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/712b624))
+* **icons:** added new icon user-add_m ([#333](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/333)) ([91c807e](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/91c807e))
+* **icons:** new file-docx icons ([#341](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/341)) ([da793d3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/da793d3))
+* **icons:** new icons for mobile ([#331](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/331)) ([eb89029](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/eb89029))
+* **icons:** new voc icons ([#334](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/334)) ([7b358ae](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/7b358ae))
+* **tokens:** new colors for mobile ([8e9b255](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8e9b255))
+* **tokens:** new colors for mobile ([83d6003](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/83d6003))
+* **tokens:** rename ios/android tokens please ([9f70eb9](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/9f70eb9))
+* **tokens:** rename ios/android tokens please ([d87a1cd](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d87a1cd))
+* **tokens:** updated android text styles ([12a8a16](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/12a8a16))
+* **tokens:** updated android text styles ([52f0780](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/52f0780))
+* **tokens:** updated android text styles ([9d3d065](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/9d3d065))
+* **tokens:** updated android text styles ([179d00c](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/179d00c))
+* **tokens:** updated android text styles ([e4f00b4](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/e4f00b4))
+* **tokens:** updated colors for mobile ([4f3e044](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/4f3e044))
+* **tokens:** updated colors for mobile ([d64d528](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d64d528))
+
+
+
+<a name="2.5.0"></a>
+# [2.5.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.4.3...v2.5.0) (2020-02-12)
+
+
+### Bug Fixes
+
+* **icons:** updated arrow icons ([#327](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/327)) ([fe55662](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/fe55662))
+
+
+### Features
+
+* **icons:** fixed arrow-collapse icons ([#326](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/326)) ([7ae859c](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/7ae859c))
+* **tokens:** new android styles ([#329](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/329)) ([44e0cbd](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/44e0cbd))
+* **tokens:** new color ([d346bb8](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d346bb8))
+
+
+
+<a name="2.4.3"></a>
+## [2.4.3](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.4.2...v2.4.3) (2020-01-23)
+
+
+### Features
+
+* **icons:** re-added format jpg & rar icons ([8b6edfe](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8b6edfe))
+
+
+
+<a name="2.4.2"></a>
+## [2.4.2](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.4.1...v2.4.2) (2020-01-23)
+
+
+### Features
+
+* **icons:** fixed call icons ([#322](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/322)) ([3e42dc3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/3e42dc3))
+
+
+
+<a name="2.4.1"></a>
+## [2.4.1](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.4.0...v2.4.1) (2020-01-22)
+
+
+### Bug Fixes
+
+* **icons:** mir logos (art) without gradient ([#320](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/320)) ([f899de9](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f899de9))
+
+
+### Features
+
+* **icons:** flash + beeline icons ([#323](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/323)) ([a4ce6ca](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/a4ce6ca))
+* **icons:** home icons ([#324](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/324)) ([157310a](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/157310a))
+* **icons:** mir art ([#319](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/319)) ([24330f3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/24330f3))
+* **icons:** new pause color icon ([#321](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/321)) ([6eada34](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/6eada34))
+
+
+
 <a name="2.4.0"></a>
 # [2.4.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.3.4...v2.4.0) (2019-12-24)
 
